@@ -1,0 +1,20 @@
+# --- local-only: research / write-up part, not published ---
+CLAUDE.md
+THEORY.md
+RESEARCH_PLAN.md
+SciPostPhys_14_5_123.md
+SciPostPhys_14_5_123.pdf
+
+jl/icfo_intern/analysis.ipynb
+jl/icfo_intern/results/
+jl/icfo_intern/tools/
+
+py/TN_TimeEvol/
+
+# --- junk ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+*.swp
